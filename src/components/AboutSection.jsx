@@ -9,12 +9,14 @@ const TAB_DATA = [
     id: 'skills',
     content: (
       <ul className="list-disc pl-2">
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Next</li>
+        <li>Flutter</li>
         <li>Node.js</li>
         <li>Express</li>
         <li>PostgreSQL</li>
-        <li>Sequelize</li>
-        <li>JavaScript</li>
-        <li>React</li>
+        <li>PHP 8</li>
       </ul>
     ),
   },
@@ -23,8 +25,8 @@ const TAB_DATA = [
     id: 'education',
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Software Analysis and Development</li>
+        <li>Estácio de Sá University</li>
       </ul>
     ),
   },
@@ -33,8 +35,9 @@ const TAB_DATA = [
     id: 'certifications',
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Full Stack Developer - Imã Tech</li>
+        <li>UI/UX Designer - Origamid</li>
+        <li>Full Stack Developer - Digital Inovation One</li>
       </ul>
     ),
   },
