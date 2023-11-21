@@ -5,6 +5,7 @@ import AboutSection from '@/components/AboutSection';
 import ProjectsSection from '@/components/ProjectsSection';
 import ProjectCard from '@/components/ProjectCard';
 import EmailSection from '@/components/EmailSection';
+import Footer from '@/components/Footer';
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <ProjectCard />
         <EmailSection />
       </div>
+      <Footer />
     </main>
   );
 }
