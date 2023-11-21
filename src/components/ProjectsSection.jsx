@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import ProjectCard from './ProjectCard';
 import ProjectTag from './ProjectTag';
+import Image from 'next/image';
 
 const projectsData = [
   {
