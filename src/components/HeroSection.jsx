@@ -36,8 +36,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            this knowledge to solve problems, create amazing products and impact
-            many lives.
+            A Full Stack Developer that loves apply this knowledge to solve
+            problems, create amazing products and impact many lives.
           </p>
           <div>
             <Link
